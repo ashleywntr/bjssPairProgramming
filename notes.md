@@ -11,7 +11,7 @@ Note: Across the UK changes to how this tax is calculated have been made recentl
 # Calculating LBTT
 _From https://www.gov.scot/policies/taxes/land-and-buildings-transaction-tax/_
 
-Residential LBTT
+## Residential LBTT
 The residential LBTT rates and bands are set out in the table below. As confirmed in the Scottish Budget, these will remain unchanged in 2022-23.
 
 | Purchase price       | LBTT rate |
@@ -22,19 +22,38 @@ The residential LBTT rates and bands are set out in the table below. As confirme
 | £325,001 to £750,000 | 10%       |
 | Over £750,000        | 12%       |
 
-First-time buyers
+## First-time buyers
 A relief for first-time buyers is available, which increases the residential nil rate band of LBTT to £175,000.
 
 The relief will result in a reduction in tax payable of up to £600 for qualifying first-time buyers.
 
 More information, including first-time buyer FAQs, is available on the Revenue Scotland website.
 
-Additional dwelling supplement
+## Additional dwelling supplement
 The LBTT Additional Dwelling Supplement (ADS) came into force on 1 April 2016. The ADS is charged at 4%, and is payable on the total purchase price of an additional dwelling if the relevant consideration (usually the purchase price) is £40,000 or more.
 
 The ADS is an important element of the Scottish Government’s drive to protect opportunities for first-time buyers in Scotland, reinforcing the progressive approach in place for LBTT rates and bands.
 
 Further information and guidance regarding the ADS is available on the Revenue Scotland website.
+
+## Non-residential LBTT
+The non-residential LBTT rates and bands are set out in the tables below. As confirmed in the Scottish Budget, these will remain unchanged in 2022-23.
+ 
+### Conveyances
+| Purchase price      | LBTT Rate |
+|---------------------|-----------|
+| Up to £150,000      | 0%        |
+| £150,001 to £250,000 | 1%        |
+| Over £250,000       | 5%        |
+
+### Leases
+| NPV of rent payable    | LBTT Rate |
+|------------------------|-----------|
+| Up to £150,000         | 0%        |
+| £150,001 to £2 million | 1%        |
+| Over £2 million        | 2%        |
+
+LBTT on lease premiums is payable at the same rate and in the same bands as non-residential conveyances.
 
 # Expectations
 Expectations on the code 
