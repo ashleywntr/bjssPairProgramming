@@ -2,7 +2,6 @@
 # Data taken from https://www.gov.scot/policies/taxes/land-and-buildings-transaction-tax/
 
 def calculate_lbtt(value):
-    lbtt_cost = 0
     if 0 < value < 145000:
         lbtt_cost = 0
     elif 145000 < value <= 250000:
@@ -27,8 +26,6 @@ def interface():
     except ValueError:
         print("Please enter an input greater than 0.")
         interface()
-    except TypeError:
-        print("Please enter a numerical input.")
 
 
 if __name__ == "__main__":
