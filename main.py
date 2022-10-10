@@ -24,7 +24,7 @@ def interface():
         print(f"The value of LBTT to be paid is £{lbtt}")
         interface()
     except ValueError:
-        print("Please enter an input greater than 0.")
+        print("Please enter a numerical input that is greater than 0.")
         interface()
 
 

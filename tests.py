@@ -21,5 +21,5 @@ class InitialTest(TestCase):
         self.assertAlmostEqual(16250, calculate_lbtt(325000))
 
 
-if __name__ == "__main__":
+if __name__ == "__tests__":
     unittest.main()
