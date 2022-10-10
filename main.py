@@ -1,4 +1,5 @@
 # Logic for BJSS Pair Programming Exercise "Land and Buildings Transaction Tax "
+# Data taken from https://www.gov.scot/policies/taxes/land-and-buildings-transaction-tax/
 
 def calculate_lbtt(value):
     lbtt_cost = 0
